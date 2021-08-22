@@ -1,0 +1,154 @@
+
+        
+
+        .body{
+            background-color: azure ;
+            font-size: smaller;
+        }
+
+
+        .center {
+        margin: auto;
+        width: 100%;
+        margin-left: 130px;
+        padding: 0px;
+        }
+
+        .container-fluid {
+        padding: 0px;
+        }
+
+        .navbar {
+            min-height: 2px;
+        }
+
+        .mainnavbar{
+            font-weight: lighter; 
+            font-family: 'Roboto', sans-serif;
+            min-height: 2px;
+            margin: 0px;
+            font-size: smaller;
+        }
+
+        .nav > .active {
+            color: blue !important;    
+        }
+        
+        .nav-tabs .nav-link.active, .nav-tabs .nav-item.show .nav-link {
+            border-bottom: 10px !important;
+            border-left: 10px !important;
+            border-right: 10px !important;
+            border-top: 10px !important;
+            color: rgb(255, 255, 255) !important;
+            border-color: #075053, #075053 !important;
+            background-color:#075053 !important;
+
+        }
+
+        .nav-tabs .nav-link{
+            background-color: #e7e8e9 ;
+            color: #075053 !important;
+            border: 1px solid #6c757d; 
+            min-height: 2px;
+            font-weight: bold;
+            margin-right: 2.5px;
+            margin-top: 5px;
+            margin-left: 2.5px;
+        }
+
+        .nav-tabs{
+            border: none !important;
+        }
+        
+        .a {
+         color: #9d9e9f !important;
+        }
+
+        .page-item.active
+        .page-link {
+            background-color: #075053 !important;
+        }
+
+        .table .thead-light th {
+            background-color: #075053 !important;
+            color: white !important;
+        }
+
+        .tooltitle{
+            background-color: #075053 !important;
+            color: rgb(221, 211, 211);
+            padding-top: 10px;
+            font-family: 'Roboto', sans-serif; 
+        }
+        
+        div.card {
+            box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+            background: #f9f9f9;
+            padding: 10px 10px;
+        }
+
+        div.card2 {
+            box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+            background: #f9f9f9;
+           
+        }
+
+        .differentTable,
+        .differentTable td {
+            border-color: black;
+        }        
+
+        
+
+    
+        #planning-pre-map {
+         height: 440px;
+      }
+      #planning-pre-map1 {
+         height: 440px;
+         width: 590px;
+      }
+
+        .page-item.active .page-link {
+            color: #fff !important;
+            background-color: #075053 !important;
+            border-color: #075053 !important; 
+        }
+
+        .page-link {
+            color: #075053 !important;
+            background-color: #fff !important;
+            border: 1px solid #dee2e6 !important; 
+        }
+
+        .page-link:hover {
+            color: #fff !important;
+            background-color: #075053 !important;
+            border-color: #075053 !important; 
+        }
+        th, td { white-space: nowrap; }
+
+.dataTables tbody tr,th, td {
+height: 2px; /* or whatever height you need to make them all consistent */
+}
+            /* style the leaflet maps */
+            #nodes_map {
+            height: 540px;
+            }
+
+            #generating_units_map {
+                height: 440px;
+            }
+
+            #loads_map {
+                height: 440px;
+            }
+
+
+            #resilience-analysis-map {
+                height: 450px;
+                display: flex;
+                flex-wrap: nowrap;
+            }
+           
+        

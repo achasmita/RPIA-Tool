@@ -1,0 +1,7 @@
+﻿inv_type,inv_specifications,inv_requirement,inv_availability_status
+Trf1,100kVA,5,12
+CB1,100Amps,10,50
+Fuses,50A,25,500
+Cabinets,1000V,30,50
+Trf2,120kVA,4,8
+CB2,50Amps,5,10

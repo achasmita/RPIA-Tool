@@ -1,0 +1,3 @@
+﻿a_type,a_id,a_location,a_specifications,a_criticality_index,a_operational_limits
+CB1,C5001,Nelson St.,100 Amps,4,I-5%
+Trf1,T1001,Nelson St.,100 kVA,5,V-10%
